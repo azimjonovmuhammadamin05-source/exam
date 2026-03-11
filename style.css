@@ -108,3 +108,11 @@ margin-top: 10px;
 border: none;
 border-radius: 30px;
 padding: 13px 25px;}
+.ure button{
+    margin: 30px 0;
+    border: none;
+    background-color: #E7EEFA;
+    border-radius: 30px;
+    padding: 5px;
+}
+.ure{margin-top: 40px;}
