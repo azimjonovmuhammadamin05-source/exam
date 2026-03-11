@@ -108,7 +108,7 @@ margin-top: 10px;
 border: none;
 border-radius: 30px;
 padding: 13px 25px;}
-.ure button{
+.gray{
     margin: 30px 0;
     border: none;
     background-color: #E7EEFA;
@@ -116,3 +116,32 @@ padding: 13px 25px;}
     padding: 5px;
 }
 .ure{margin-top: 40px;}
+.or{
+    background-color: #FFBB8A;
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 20px;
+    border: none;
+}
+.test{display: flex;
+flex-direction: column ;
+align-items: center;}
+.obs{background-color: #FFF6EF;
+display: flex;
+width: 1200px;
+padding: 10px;
+border-radius: 20px;}
+.adri div{background-color: white;
+padding: 10px;
+text-align: center;
+width: 200px;
+border-radius: 20px;}
+.boo{display: flex;
+align-items: center;}
+.adri h1{margin-left: 30px;}
+.adri aside{padding: 40px;
+    font-size: 20px;
+width: 700px;}
