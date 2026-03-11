@@ -62,4 +62,8 @@ gap: 20px;}
     bottom: -20px;
 }
 .rekl img{width: 130px;}
-
+.easy{margin-top: 80px;}
+.box{display: flex;
+justify-content: space-between;
+align-items: center;}
+.easy article{width: 550px;}
