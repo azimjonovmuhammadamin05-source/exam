@@ -1,0 +1,22 @@
+*{margin: 0;
+font-family: sans-serif;}
+header{max-width: 1200px;
+margin: auto;
+display: flex;
+align-items: center;
+justify-content: space-around;}
+header ul{
+    list-style: none;
+    display: flex;
+    gap: 15px;
+}
+header button{
+    background-color: green;
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+}
+
