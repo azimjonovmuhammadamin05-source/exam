@@ -74,9 +74,37 @@ justify-content: space-between;}
 .podryd img{width: 200px;
 display: flex;
 }
-.podryd h1, article{text-align: center;
+.podryd h1, .cen{text-align: center;
 }
+article{color: gray;}
 .podryd button{
     height: 30px;
     text-align: center;
+    border: none;
+    background-color: white;
+    box-shadow: 1px 1px 1px 1px gray;
     border-radius: 50%;}
+.ch{background-color: #FFBB8A;
+border-radius: 50%;
+width: 20px;
+margin-bottom: 30px;
+height: 20px;
+text-align: center;}
+.visa nav{display: flex;
+    gap: 10px;
+}
+.visa span{width: 550px;}
+.visa h1{font-size: 35px;
+width: 450px;}
+.visa p{width: 600px;}
+.card{
+    border-radius: 15px;
+width: 550px;
+    padding: 20px;
+    box-shadow: 1px 1px 1px 1px gray;}
+.btn{background-color: #5EB083;
+color: white;
+margin-top: 10px;
+border: none;
+border-radius: 30px;
+padding: 13px 25px;}
