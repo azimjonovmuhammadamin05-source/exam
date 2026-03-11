@@ -1,7 +1,8 @@
-*{margin: 0;
+*{
 font-family: sans-serif;}
 header{max-width: 1200px;
 margin: auto;
+margin-top: 20px ;
 display: flex;
 align-items: center;
 justify-content: space-around;}
@@ -10,6 +11,7 @@ header ul{
     display: flex;
     gap: 15px;
 }
+.logo{width: 300px;}
 header button{
     background-color: green;
     color: white;
@@ -19,4 +21,45 @@ header button{
     border-radius: 20px;
     border: none;
 }
+.platform{
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    background-position: center;
+        justify-content: center;
+align-content: center;
+   background-image: url(./image/background.png)
+}
+main{max-width: 1200px;
+margin: auto;}
+.platform button{background-color: #FFBB8A;
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 20px;
+    border: none;
+}
+.platform aside{
+    font-size: 20px;
+    width: 440px;
+}
+.platform article{color: gray;
+}
+.platform span{color: green;}
+.but article{font-size: 15px;
+width: 240px;
+margin-top: 20px;}
+.but{display: flex;
+align-items: center;
+gap: 20px;}
+.rekl{display: flex;
+    width: 140px;
+    gap: 25px;
+    position: absolute;
+    bottom: -20px;
+}
+.rekl img{width: 130px;}
 
