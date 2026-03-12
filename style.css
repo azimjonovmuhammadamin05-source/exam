@@ -145,3 +145,24 @@ align-items: center;}
 .adri aside{padding: 40px;
     font-size: 20px;
 width: 700px;}
+.fle{display: flex;
+align-items: center;
+justify-content: space-between;
+flex-wrap: wrap;}
+.faq nav{display: flex;
+    width: 1000px;
+align-items: center;
+justify-content: space-between;
+}
+.green{color: #5EB083;
+}
+.faq div{box-shadow: 1px 1px 1px 1px gray;
+padding: 0 10px;
+border-radius: 10px;
+}
+.faq{display: flex;
+flex-direction: column;
+gap: 10px;}
+.fle1{display: flex;
+flex-wrap: wrap;
+}
