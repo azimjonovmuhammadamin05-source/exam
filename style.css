@@ -186,3 +186,61 @@ background-color: #2A3034;
 color: white;
 margin-top: 20px;
 border-radius: 10px;}
+@media(max-width:500px){
+   header ul{display: none;}
+    .logo{width: 200px;}
+    .platform aside{width: 400px;position: absolute;
+    bottom: -120px;}
+    .platform article{width: 300px;}
+.platform {background-size: 400px;
+    position: relative;top: -140px;
+}
+.rekl{margin-bottom:-200px;}
+    .unvis{display: none;}
+    main{
+        margin-left: -7px;
+        padding-left: 6px;
+        width: 400px;
+            background-color: #FFBB8A;}
+.easy article{width: 300px;}
+.easy img{width: 300px;}
+.box{flex-direction: column;}
+.visa h1{width: 380px;}
+.visa p{width: 380px;}
+.card{background-color: white;
+width: 320px;
+}
+.visa{display: flex;
+flex-direction: column;
+align-items: center;}
+.visa nav{display: flex;
+    flex-direction: column;}
+    .visa span{width: 300px;}
+    .ure img{width: 340px;}
+.ure{text-align: center;}
+.adri{width: 400px;
+}
+.obs{display: flex;
+    width: 300px;
+flex-direction: column;}
+.obs aside{width: 250px;}
+.fle {width: 350px;}
+.faq{width: 400px;}
+.faq div{
+    background-color: white;
+}
+    .faq aside{display: flex;
+    flex-direction: column;
+align-items: center;
+gap: 10px;
+}
+.logo1{width: 300px;}
+footer{display: flex;
+    justify-content: start;
+flex-wrap: wrap;
+}
+footer ul{list-style: none;}
+footer div{width: 150px;}
+footer nav{padding: 0 20px;text-align: center;}
+}
+
