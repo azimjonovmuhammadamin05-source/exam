@@ -82,7 +82,7 @@ article{color: gray;}
     text-align: center;
     border: none;
     background-color: white;
-    box-shadow: 1px 1px 1px 1px gray;
+   
     border-radius: 50%;}
 .ch{background-color: #FFBB8A;
 border-radius: 50%;
@@ -149,6 +149,10 @@ width: 700px;}
 align-items: center;
 justify-content: space-between;
 flex-wrap: wrap;}
+.faq button{border: none;
+    background-color: transparent;
+border-radius: 50%;
+height: 20px;} 
 .faq nav{display: flex;
     width: 1000px;
 align-items: center;
@@ -186,6 +190,14 @@ background-color: #2A3034;
 color: white;
 margin-top: 20px;
 border-radius: 10px;}
+button :hover{background-color: green;
+  color: white;
+  padding: 8px;
+  margin: auto;
+  border-radius: 50%;};
+  button:hover{background-color: green;
+
+padding: 8px;}
 @media(max-width:500px){
    header ul{display: none;}
     .logo{width: 200px;}
