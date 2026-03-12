@@ -190,7 +190,8 @@ background-color: #2A3034;
 color: white;
 margin-top: 20px;
 border-radius: 10px;}
-button :hover{background-color: green;
+button :hover{
+    background-color: green;
   color: white;
   padding: 8px;
   margin: auto;
