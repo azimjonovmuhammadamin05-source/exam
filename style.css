@@ -166,3 +166,23 @@ gap: 10px;}
 .fle1{display: flex;
 flex-wrap: wrap;
 }
+.soc{background-color: #272A2D;
+width: 30px;
+height: 30px;
+display: flex;
+justify-content: center;
+align-items: center;
+border-radius: 50%;
+padding: 5px;}
+.soc img{width: 20px;
+height: 20px;}
+.med{display: flex;}
+footer{display: flex;
+align-items: center;
+max-width: 1200px;
+margin: auto;
+justify-content: space-around;
+background-color: #2A3034;
+color: white;
+margin-top: 20px;
+border-radius: 10px;}
